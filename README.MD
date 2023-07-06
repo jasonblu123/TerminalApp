@@ -11,6 +11,9 @@ Stack Overflow: https://stackoverflow.com/
 <!-- Link to Github -->
 https://github.com/jasonblu123/TerminalApp
 
+Youtube Video link:
+https://www.youtube.com/watch?v=B68ysymgmOY
+
 R5 Identify any code style guide or styling conventions that the application will adhere to.
 
 The code is styled with:
