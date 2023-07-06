@@ -99,13 +99,13 @@ Priority: Low
 Deadline: 2 days
 
 screenshots:
-![1](src\screenshot1.png)
-![2](src\screenshot2.png)
-![3](src\screenshot3.png)
-![4](src\screenshot4.png)
-![5](src\screenshot5.png)
-![6](src/screenshot6.png)
-![7](src\screenshot7.png)
+![1](docs\screenshot1.png)
+![2](docs\screenshot2.png)
+![3](docs\screenshot3.png)
+![4](docs\screenshot4.png)
+![5](docs\screenshot5.png)
+![6](docs/screenshot6.png)
+![7](docs\screenshot7.png)
 
 R8 Design help documentation which includes a set of instructions which accurately describe how to use and install the application.
 
